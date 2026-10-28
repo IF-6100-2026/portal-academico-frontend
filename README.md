@@ -2,11 +2,11 @@
 
 Equipo actual: Josué Delgado Corrales y Sebastián Cordero Quesada.
 
-Repositorio del frontend del proyecto de IF-6100 en la organización [IF-6100-2026](https://github.com/IF-6100-2026). Los prototipos HTML y sus imágenes del PC1 se conservan íntegros en [prototipos/](https://github.com/IF-6100-2026/portal-academico-documentacion/tree/pc1/prototipos) del [tag `pc1`](https://github.com/IF-6100-2026/portal-academico-documentacion/tree/pc1). No son todavía una aplicación React integrada.
+Repositorio del frontend del proyecto de IF-6100 en la organización [IF-6100-2026](https://github.com/IF-6100-2026). Los prototipos HTML y sus imágenes del PC1 se conservan íntegros en [prototipos/](https://github.com/IF-6100-2026/portal-academico-documentacion/tree/pc1/prototipos) del [tag `pc1`](https://github.com/IF-6100-2026/portal-academico-documentacion/tree/pc1).
 
-Para el PC2 está pendiente preparar React con TypeScript y Vite, un módulo tipado de acceso a la API y una pantalla que muestre la respuesta del endpoint de prueba del backend. También quedan pendientes los lineamientos y la guía de ambiente.
+Frontend React, TypeScript y Vite con acceso tipado a la API y pantalla de salud del backend. Consulta la [guía de ambiente](https://github.com/IF-6100-2026/portal-academico-documentacion/blob/main/docs/06-configuracion/ambiente-de-desarrollo.md).
 
-Este repositorio por ahora contiene únicamente README y `.gitignore` de preparación inicial; no es una aplicación ejecutable ni una entrega terminada.
+La pantalla consulta el endpoint del backend y presenta respuesta, error o estado de carga. Los casos de uso de negocio todavía no están implementados.
 
 [Frontend](https://github.com/IF-6100-2026/portal-academico-frontend) · [Backend](https://github.com/IF-6100-2026/portal-academico-backend) · [Documentación](https://github.com/IF-6100-2026/portal-academico-documentacion).
 
